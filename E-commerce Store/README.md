@@ -1,6 +1,6 @@
 # E-commerce Store
 
-An e-commerce store is a digital platform where customers can browse, purchase, and pay for products or services online.
+Use an e-commerce store Power BI dashboard to visualize sales data, track performance, identify trends, and make data-driven business decisions quickly and effectively.
 
 This dashboard uses two datasets, <a href="https://github.com/StephennHub/PowerBIDashboard/blob/main/E-commerce%20Store/Orders.csv">Orders</a> and <a href="https://github.com/StephennHub/PowerBIDashboard/blob/main/E-commerce%20Store/Details.csv">Details</a>, to visualize store sales performance by product, customer, payment mode, and region.
 
