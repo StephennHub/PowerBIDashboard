@@ -3,4 +3,6 @@ This Power BI dashboard presents a clear view of store sales performance, showin
 
 This dashboard uses two datasets, Orders and Details, to visualize store sales performance by product, customer, payment mode, and region.
 
-<a hreaf = "https://github.com/StephennHub/PowerBIDashboard/blob/main/E-commerce%20Store/Details.csv">Details</a>
+<a href="https://github.com/StephennHub/PowerBIDashboard/blob/main/E-commerce%20Store/Details.csv">Details</a>
+
+<a href="https://github.com/StephennHub/PowerBIDashboard/blob/main/E-commerce%20Store/Orders.csv">Orders</a>
